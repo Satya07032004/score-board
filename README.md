@@ -1,19 +1,19 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🏀 Basketball Scoreboard
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple, responsive basketball scoreboard built with HTML, CSS, and vanilla JavaScript. Track the score for two teams, add points with a click, and start a fresh game anytime.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Separate scores for **Home** and **Guest** teams
+- Add **+1**, **+2**, or **+3** points with a single click
+- Clean, responsive layout that works on desktop and mobile
 
-Happy Coding!
+## Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5      | Page structure |
+| CSS3       | Styling and layout (Flexbox) |
+| JavaScript | Score logic and DOM manipulation |
+
+## Project Structure
